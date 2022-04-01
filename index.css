@@ -1,0 +1,58 @@
+body{
+  background-color:wheat;}
+  .dan{
+   color:teal;
+   text-align: center;
+   font-size: 25px
+ }
+   #my-list{
+     color:orange;
+     text-align: center;
+     font-size: 25px
+   }
+   #my-list:hover{
+  color: teal;
+   }
+#my-pic {
+  border-radius:50%;
+  position: relative;
+  left: 800px
+}
+#my-pic:hover{
+  height:400px;
+  width:300px;
+}
+
+#my-button{
+  background-color: orange;
+  color:white;
+  display: block;
+  position: relative;
+  left: 950px;
+  height:50px;
+  width: 120px;
+  font-size:15px;
+  border-radius: 10%;
+  box-shadow:2px,2px,2px;
+  text-shadow: 10%
+
+
+
+}
+#my-button:hover{
+  background-color: teal;
+
+}
+#name{
+  text-align: center;
+  color: red;
+}
+h1::first-letter {font-size: 200%;color:blue}
+.d:hover{color: teal}
+#m{text-align: center;
+font-size: 30px
+}
+#video{
+  position: relative;
+  lrft:50px;
+}
