@@ -12,6 +12,7 @@ body{
    }
    #my-list:hover{
   color: teal;
+  list-style-type: none;
    }
 #my-pic {
   border-radius:50%;
@@ -20,7 +21,7 @@ body{
 }
 #my-pic:hover{
   height:400px;
-  width:300px;
+  width:300;
 }
 
 #my-button{
@@ -50,7 +51,9 @@ body{
 h1::first-letter {font-size: 200%;color:blue}
 .d:hover{color: teal}
 #m{text-align: center;
-font-size: 30px
+font-size: 30px;
+list-style-type: none;
+
 }
 #video{
   position: relative;
